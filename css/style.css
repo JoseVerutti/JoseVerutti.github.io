@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Mystery Quest";
+  src: url("mystery-quest.woff2");
+}
+
 body{
   background:pink;  
   width: 100%;
@@ -7,6 +12,7 @@ body{
 header{
   width: 100%;
   height: 120px;
+  font-family: "Mystery Quest", cursive;
   background-color: #8B2CA0;
   text-align: center;
 }
