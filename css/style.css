@@ -7,7 +7,7 @@ body{
 header{
   margin-top: 50;
   width: 100%;
-  height: 50px;
+  height: 20%;
   color: #000000; 
   font-family: Lobster; 
   background-color: #2ca4f4;
@@ -43,6 +43,6 @@ footer{
   color: #FFFFFF;
   float: right;
   width:100%;
-  height:100px;
+  height:10%;
   text-align: center;
 }
